@@ -1,0 +1,19 @@
+{
+  "name": "test01",
+  "version": "0.0.0",
+  "homepage": "https://github.com/rpuchadm/test01",
+  "authors": [
+    "Rafael Puchades <rpuchadm@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.3"
+  }
+}
