@@ -1,0 +1,26 @@
+{
+  "name": "test01",
+  "version": "1.0.0",
+  "description": "cuando con npm install se pone el -g install packages globally, entonces hay que hacerlo con sudo se ejecuta una vez por equipo     sudo npm install -g bower",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpuchadm/test01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rpuchadm/test01/issues"
+  },
+  "homepage": "https://github.com/rpuchadm/test01#readme",
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "ts-loader": "^0.8.2",
+    "typescript": "^1.8.10",
+    "typings": "^0.7.12",
+    "webpack": "^1.13.0"
+  }
+}
